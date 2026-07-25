@@ -3,6 +3,33 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2026-07-25
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`flutter_image_compress` - `v2.5.1`](#flutter_image_compress---v251)
+ - [`flutter_image_compress_common` - `v1.1.1`](#flutter_image_compress_common---v111)
+
+---
+
+#### `flutter_image_compress` - `v2.5.1`
+
+ - **FIX**(Android): handle Gradle 9 Kotlin modes safely ([#401](https://github.com/fluttercandies/flutter_image_compress/issues/401)). ([e4bbccae](https://github.com/fluttercandies/flutter_image_compress/commit/e4bbccaefd8243ecff9be1226d926bafba536108))
+
+#### `flutter_image_compress_common` - `v1.1.1`
+
+ - **FIX**(Android): replace deprecated EXIF ISO tag ([#403](https://github.com/fluttercandies/flutter_image_compress/issues/403)). ([5c28723f](https://github.com/fluttercandies/flutter_image_compress/commit/5c28723f779cf6048994889326a6c49cb3190b3d))
+ - **FIX**(Android): handle Gradle 9 Kotlin modes safely ([#401](https://github.com/fluttercandies/flutter_image_compress/issues/401)). ([e4bbccae](https://github.com/fluttercandies/flutter_image_compress/commit/e4bbccaefd8243ecff9be1226d926bafba536108))
+
+
 ## 2026-07-17
 
 ### Changes

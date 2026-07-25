@@ -1,3 +1,8 @@
+## 1.1.1
+
+ - **FIX**(Android): replace deprecated EXIF ISO tag ([#403](https://github.com/fluttercandies/flutter_image_compress/issues/403)). ([5c28723f](https://github.com/fluttercandies/flutter_image_compress/commit/5c28723f779cf6048994889326a6c49cb3190b3d))
+ - **FIX**(Android): handle Gradle 9 Kotlin modes safely ([#401](https://github.com/fluttercandies/flutter_image_compress/issues/401)). ([e4bbccae](https://github.com/fluttercandies/flutter_image_compress/commit/e4bbccaefd8243ecff9be1226d926bafba536108))
+
 ## 1.1.0
 
  - **REFACTOR**(common): drop go-flutter plugin, rebuild example native shell ([#368](https://github.com/fluttercandies/flutter_image_compress/issues/368)). ([6d3898b0](https://github.com/fluttercandies/flutter_image_compress/commit/6d3898b0ab1330f4d7679ab156478f70f5034cd6))
